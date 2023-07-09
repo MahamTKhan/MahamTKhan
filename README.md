@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahamTKhan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python/c++
+- 🌱 I’m currently learning React/php
 - 📫 contact me at mahamtkhan2@gmail.com ...
 
 <!---
