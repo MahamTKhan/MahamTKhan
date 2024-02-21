@@ -29,3 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamtkhan&show_icons=true&locale=en" alt="mahamtkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamtkhan&" alt="mahamtkhan" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MahamTKhan&icon=0&color=1)](https://visitcount.itsvg.in)
