@@ -28,7 +28,7 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamtkhan&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="mahamtkhan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamtkhan&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="mahamtkhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamtkhan&show_icons=true&theme=nightowl&locale=en" alt="mahamtkhan" /></p>
 
