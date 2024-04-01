@@ -1,42 +1,254 @@
-![logo](https://github.com/MahamTKhan/MahamTKhan/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Maham</h1>
-<h3 align="center">A passionate coder and AI enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamtkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mahamtkhan" /> </p>
-<img align="right" alt="animated GIF" width="400px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-<h2>💫 About Me</h2>
-- 🔭 I recently worked on a **React App**
-
-- 🌱 I’m currently learning **Node JS**
-
-- 📫 How to reach me **mahamtkhan2@gmail.com**
-
-- ⚡ Interesting fact About Me : **I am a creative Digital Artist too**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maham khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maham khan" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahamtkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahamtkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/artfever19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artfever19" height="30" width="40" /></a>
-<a href="https://www.behance.net/maham khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="maham khan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mahamtkhan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mahamtkhan2" height="30" width="40" /></a>
+<p align="center">
+    <img src="TopRameez.png" width="480px"/>    
 </p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## Hi 👋, I'm [Muhammad Rameez!](http://www.muhammadrameez.ml/) 
+
+<!-- HeadLine !-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
+    
+> Be Creative to Think Unique, to Be Unique - **M Rameez** 💕
+
+
+<!--Profile views counter API!-->
+<img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=FF3A61&style=flat" alt="m-rameez" />
+
+
+<!-- Social Links !-->
+ _Join the Ecosystem 💫_
+
+<a href="https://linkedin.com/in/muhammadrmz">
+  <img align="left" alt="Rameez's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ZapeeoSheikh">
+  <img align="left" alt="Rameez's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://bit.ly/muhammadrameez">
+  <img align="left" alt="Rameez's Socials" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/at-and-t.svg" />
+</a>
 
 
 
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamtkhan&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="mahamtkhan" /></p>
+<a href="https://instagram.com/zapeeo_sheikh/">
+  <img align="left" alt="Rameez's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ZapeeoSheikh/">
+  <img align="left" alt="Rameez's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://wa.me/923244812756">
+    <img align="left" alt="Rameez's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamtkhan&show_icons=true&theme=nightowl&locale=en" alt="mahamtkhan" /></p>
+<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MahamTKhan&theme=nightowl&hide_border=false)<br/>
+### About me 🚀
+- 🌱 Works on **Flutter** by passion and **Data Engineering** by field
+- 👯 Love to help people and grow as a community
+- 👣 I like Chess and Badminton
+<!-- Octocat gif -->
+- 💖 I am a creative [Artist](https://dribbble.com/muhammadrmz)<img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-# 🏆 GitHub Trophees:
-![](https://github-profile-trophy.vercel.app/?username=MahamTKhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- ⚡ Fun fact ***Started Journey with dotnet then switch data Engineering by field, Flutter by Passion***
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="left" src="DreamRameez.png" height="250px"/>
 
+```
+    Human Information
+    ------------------------------------------
+    Name: Muhammad Rameez
+    Username: Zapeeo Sheikh
+    Gender: Male
+    Age: 22
+    Hobbies: ["Blogging"], ["Journaling"], ["Books Reading"], ["Opensource"],["Traveling"]
+    Languages: ["Urdu"], ["English US"], ["English UK"]
+    University: Government College University, Lahore
+```
+
+<br>
+
+
+### 📕 Blog Post
+<!-- BLOG-POST-LIST:START -->
+- [All about Flutter Widgets!](https://dev.to/zapeeosheikh/flutter-widgets-1mm9)
+- [What is Flutter and Why Flutter!](https://dev.to/zapeeosheikh/flutter-experience-5dfg)
+- [What is Internet of Things ( iOT ) ?](https://dev.to/zapeeosheikh/what-is-internet-of-things-iot--20h6)
+- [DataBase Vs Data Warehouse](https://dev.to/zapeeosheikh/database-vs-data-warehouse-1ab6)
+- [Data Lake vs Data Warehouse](https://dev.to/zapeeosheikh/data-lake-vs-data-warehouse-3ehi)
+- [Read More Articles ...](https://dev.to/zapeeosheikh/)
+<!-- BLOG-POST-LIST:END -->
+
+
+
+<img align="right" src="RightRameez.png" height="250px"/>
+
+
+```
+    Voluntering Information
+    ------------------------------------------
+    Beta MLSA @ Microsoft
+    Google DSC Lead 23 @ Google
+    Opensource Contributor @ GSSOC 2023
+    Mentor @ GSSOC 23
+    Campus Ambassador @ Cogent Labs 
+    Application Developer @ Easy Solutions 
+```
+
+
+### Languages:
+
+
+<!-- Row 1 -->
+
+<img width="28" height="auto"  align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img width="26" height="auto"  align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img width="26" height="auto"  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+
+
+
+
+<!-- Most Commonly Used Languages -->
+
+<div align="center">
+    <table align="right" border="2" bordercolor="#d6f0fc">
+        <th colspan="3" >Most Commonly Used Languages</th>
+        <tr>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" width="40px"/>
+                <br /> Bootstrap
+            </td>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" width="40px"/>
+                <br /> HTML
+            </td>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40px"/>
+                <br /> C sharp
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40px"/>
+                <br /> SQL
+            </td>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="40px"/>
+                <br /> Flutter
+            </td>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40px"/>
+                <br /> Dart
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+</br>
+
+
+### Framework and Tools:
+
+<!-- Row 1 -->
+<img width="24" height="auto" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" /> 
+<img width="40" height="auto" align="left" src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" /> 
+<img width="26" height="auto" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+
+<img width="26" height="auto" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
+<img width="26" height="auto" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png">
+<img width="26" height="auto" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+
+  </br>
+    
+### Design & Prototype :
+
+<img width="26" height="auto" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png">
+<img width="26" height="auto" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
+<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+<img align="left" alt="Canva" width="26px" src="https://img.icons8.com/fluency/48/000000/canva.png"/>
+
+ 
+ 
+ 
+
+</br>
+
+<!-- ### My Github Stats 🟠 
+  
+  [![Muhammad Rameez's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZapeeoSheikh&theme=buefy&hide_border=true)](https://github.com/ZapeeoSheikh) -->
+
+
+<br>
+
+<table align="right" border="2" bordercolor="#D6F0FC">
+  <tr>
+    <td>  
+        
+![Muhammad Rameez's github stats](https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&theme=buefy&show_icons=true&hide_border=true) 
+        
+    
+<td>
+    
+![Muhammad Rameez's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZapeeoSheikh&theme=buefy&layout=compact&langs_count=8&hide_border=true)   
+</td>       
+   </tr> 
+</table>
+
+
+
+<!-- </br>
+<table align="right" border="2" bordercolor="#D6F0FC">
+<tr>
+ <b align ="left">🏆 GitHub Profile Trophy: </b> 
+ </tr> 
+    <tr>
+ <a href="https://github.com/ZapeeoSheikh">
+ <img width = 600 src="https://github-profile-trophy.vercel.app/?username=ZapeeoSheikh&theme=D6F0FC"/>
+ </a> 
+ </tr> 
+ </table> -->
+
+
+
+<img align="left" src="LeftRameez.png" height="170px"/>
+
+<table align="right" border="4" bordercolor="#D6F0FC">
+<tr>
+    <td>
+        
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZapeeoSheikh&theme=buefy&hide_border=true)](https://git.io/streak-stats)        
+
+</td>
+
+    
+</tr>
+</table>
+ 
+
+
+</details>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+    
+<div align="center">
+
+<span align="center">
+
+### Show some ❤️ by ⭐️ some of the repositories!!
+</span>
+
+
+`Readme likes Light Theme :)`
+</br>
+`ZapeeoSheikh likes dark Theme ;)`
+
+<div align="right">
+    <a href="https://www.google.com/search?q=zapeeosheikh&oq=zapeeo&aqs=chrome.1.69i60j69i59j69i57j0i10j69i60l3j69i65.4133j0j4&sourceid=chrome&ie=UTF-8"> Find me on Google 😄</a>
+    <p>Bye Bye 💜 </p>
+</div>
+
+
+</div>
