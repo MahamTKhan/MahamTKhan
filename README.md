@@ -108,9 +108,11 @@
 
 <img align="left" src="github gif2.webp" height="170px"/>
 
+<p align="right">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+</p>
 
 
 </details>
