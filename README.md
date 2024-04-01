@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="Navy Blue Geometric Technology LinkedIn Banner.png" width="580px"/>    
+    <img src="Navy Blue Geometric Technology LinkedIn Banner.png" width="780px"/>    
 </p>
 
-<h3 align="center">Hi 👋, I'm [Maham Khan!] </h3>
+<h3 align="center">Hi 👋, I'm Maham Khan! </h3>
 
 <!-- HeadLine !-->
-<p align="center">
-
+<p align="center"> 
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D178D&random=false&width=435&lines=A+passionate+Coder+and+AI+Enthusiast)](https://git.io/typing-svg)
 </p>
 
@@ -16,8 +16,8 @@
 <!--Profile views counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamtkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mahamtkhan" /> </p>
 
-### ✍️ Random  Quote:)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="right" src="githuub gif.gif" height="250px" width="400px"/>
+
 
 <!-- Social Links !-->
 <h3 align="left">Connect with me: 💫_</h3>
@@ -31,6 +31,7 @@
 
 <br/>
 
+
 ### About me 🚀
 - 🌱 Software Engineer with a passion for Data Engineering
 - 👯 Currently working on a MERN based Ecommerce website- ByteBazaar
@@ -38,17 +39,10 @@
 
 <!-- Octocat gif -->
 
-- ⚡ Interesting fact About Me **I am a creative [Digital Artist](https://www.behance.net/maham khan) too**
+- ⚡ Interesting fact About Me **I am a creative [Digital Artist](https://www.behance.net/mahamkhan) too**
+<img align ="right" alt="GIF" height="200px" src="octa.png" />
 
-<img align="left" src="DreamRameez.png" height="250px"/>
-
-
-
-<img align="right" src="RightRameez.png" height="250px"/>
-<br>
-
-
-- 💖 I am an active Volunteer <img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+- 💖 I am an active Volunteer too 
 
 ```
     Voluntering Information
@@ -72,9 +66,6 @@
 
  ### My Github Stats 🟠 
   
-
-
-
 
 <br>
 
@@ -113,11 +104,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=MahamTKhan&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
  
 
+### ✍️ Random  Quote:)
 
-<img align="left" src="LeftRameez.png" height="170px"/>
+<img align="left" src="github gif2.webp" height="170px"/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
 
 </details>
-</br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br>
     
 <div align="center">
 
