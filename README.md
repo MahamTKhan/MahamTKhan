@@ -1,11 +1,14 @@
 <p align="center">
-    <img src="banner.png" width="480px"/>    
+    <img src="Navy Blue Geometric Technology LinkedIn Banner.png" width="580px"/>    
 </p>
 
-## Hi 👋, I'm [Maham Khan!]
+<h3 align="center">Hi 👋, I'm [Maham Khan!] </h3>
 
 <!-- HeadLine !-->
+<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D178D&random=false&width=435&lines=A+passionate+Coder+and+AI+Enthusiast)](https://git.io/typing-svg)
+</p>
 
 
 
