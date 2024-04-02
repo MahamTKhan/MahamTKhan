@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Navy Blue Geometric Technology LinkedIn Banner.png" width="780px"/>    
+    <img src="Navy Blue Geometric Technology LinkedIn Banner.png" width="880px"/>    
 </p>
 
 <h3 align="center">Hi 👋, I'm Maham Khan! </h3>
@@ -18,7 +18,7 @@
 
 <img align="right" src="githuub gif.gif" height="250px" width="400px"/>
 
-
+<hr>
 <!-- Social Links !-->
 <h3 align="left">Connect with me: 💫_</h3>
 
@@ -30,7 +30,7 @@
 </p>
 
 <br/>
-
+<hr>
 
 ### About me 🚀
 - 🌱 Software Engineer with a passion for Data Engineering
@@ -54,6 +54,27 @@
     Brand Ambassador @ ACM NEDUET 
 ```
 
+<hr>
+
+### ✍️ Random  Quote:)
+
+<table align="center">
+    <tr>
+        <td>
+            <img align="left" src="github gif2.webp" height="170px"/>
+        </td>
+        <td>
+            <p align="right">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</p>
+        </td>
+    </tr>
+
+</table>
+
+<hr>
 
 ### Tech Stack:
 
@@ -64,7 +85,8 @@
 
 </br>
 
- ### My Github Stats 🟠 
+<hr>
+<h3>My Github Stats 🟠 </h3>
   
 
 <br>
@@ -99,28 +121,15 @@
 
 </br>
 
+<hr>
+
+
 ### 🏆 GitHub  Trophies:  
  
 ![](https://github-profile-trophy.vercel.app/?username=MahamTKhan&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
  
 
-### ✍️ Random  Quote:)
-
-<table align="center">
-    <tr>
-        <td>
-            <img align="left" src="github gif2.webp" height="170px"/>
-        </td>
-        <td>
-            <p align="right">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</p>
-        </td>
-    </tr>
-
-</table>
+<hr>
 
 
 
