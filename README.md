@@ -106,17 +106,26 @@
 
 ### ✍️ Random  Quote:)
 
-<img align="left" src="github gif2.webp" height="170px"/>
-
-<p align="right">
+<table align="center">
+    <tr>
+        <td>
+            <img align="left" src="github gif2.webp" height="170px"/>
+        </td>
+        <td>
+            <p align="right">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </p>
+        </td>
+    </tr>
+
+</table>
+
 
 
 </details>
-</br></br></br></br>
+</br></br>
     
 <div align="center">
 
