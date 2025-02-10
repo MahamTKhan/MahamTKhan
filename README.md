@@ -34,7 +34,7 @@
 
 ### About me 🚀
 - 🌱 Software Engineer with a passion for Data Engineering
-- 👯 Currently working on a MERN based Ecommerce website- ByteBazaar
+- 👯 Currently working on an Automated Recruitment Intelligence and Analytics System (ARIAS)
 - 📫 How to reach me **mahamtkhan2@gmail.com**
 
 <!-- Octocat gif -->
